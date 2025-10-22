@@ -1,4 +1,5 @@
 # Cyber Security Internship — Task 1
+
 **Objective:** Scan local network to discover open ports and evaluate exposure.
 
 ## Environment
