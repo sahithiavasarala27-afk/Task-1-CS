@@ -19,8 +19,3 @@ PORT NO.  SERVICE  STATE
 80 TCP     HTTP     Open
 443 TCP    HTTPS    Open
 
-## Files included
-- scans/*.txt, scans/*.xml
-- pcap/*.pcap (if any)
-- screenshots/*.png
-- interview_answers.md
